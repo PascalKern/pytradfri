@@ -1,5 +1,5 @@
 [![PyPI version](https://badge.fury.io/py/pytradfri.svg)](https://badge.fury.io/py/pytradfri)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/home-assistant-libs/pytradfri)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/PascalKern/pytradfri)
 
 Python package to communicate with the [IKEA Trådfri](http://www.ikea.com/us/en/catalog/products/00337813/) (Tradfri) ZigBee Gateway compatible with ZigBee Light Link products. By using this library you can communicate with the gateway and control IKEA's lights and wall plugs.
 

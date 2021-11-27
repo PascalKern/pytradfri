@@ -10,7 +10,7 @@ LONG_DESCRIPTION = README_FILE.read_text(encoding="utf-8")
 
 VERSION = (PROJECT_DIR / "pytradfri" / "VERSION").read_text().strip()
 
-GITHUB_URL = "https://github.com/home-assistant-libs/pytradfri"
+GITHUB_URL = "https://github.com/PascalKern/pytradfri"
 DOWNLOAD_URL = f"{GITHUB_URL}/archive/{VERSION}.zip"
 
 EXTRAS_REQUIRE = {"async": ["aiocoap==0.4.1", "DTLSSocket==0.1.12"]}
